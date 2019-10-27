@@ -5,9 +5,8 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dovpanda-by-guy",
-    version="0.0.3",
-    author="Dean Langsam",
-    author_email="deanla@gmail.com",
+    version="0.0.4",
+    author="guysmoilov",
     description="Directions overlay for working with pandas in an analysis environment",
     long_description=long_description,
     long_description_content_type="text/markdown",
