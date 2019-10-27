@@ -1,4 +1,6 @@
 # dovpanda
+[![Build Status](https://travis-ci.org/guysmoilov/dovpanda.svg?branch=master)](https://travis-ci.org/guysmoilov/dovpanda)
+
 ## Directions OVer PANDAs
 
 Directions are hints and tips for using pandas in an analysis environment.
