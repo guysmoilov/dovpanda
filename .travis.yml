@@ -1,0 +1,6 @@
+language: python
+deploy:
+  provider: pypi
+  user: ...
+  password: ...
+  distributions: "sdist bdist_wheel"
