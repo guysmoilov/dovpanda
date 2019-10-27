@@ -1,5 +1,6 @@
 # dovpanda
 [![Build Status](https://travis-ci.org/guysmoilov/dovpanda.svg?branch=master)](https://travis-ci.org/guysmoilov/dovpanda)
+[![Documentation Status](https://readthedocs.org/projects/dovpanda/badge/?version=latest)](https://dovpanda.readthedocs.io/en/latest/?badge=latest)
 
 ## Directions OVer PANDAs
 
